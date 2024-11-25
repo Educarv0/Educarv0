@@ -1,21 +1,57 @@
-## Olá, sou Antonio Eduardo 👋
-Sou estudante do curso tecnico em informática do IFMA - Campus Açailândia
-
-# Antonio Eduardo
-## Conecte-se comigo
-![Instagram]
-## Habilidades
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=823085)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=553C7B)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
 
 
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=00raoni&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-## Linguagens mais usadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=00raoni&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<h1 align="center">Olá! Eu sou Antonio Eduardo 👋</h1>
+
+
+ <h2>Sobre mim</h2> 
+Sou Estudante do curso Tecnico em Informatica no IFMA- Campus Açailândia
+
+<h2>Redes Sociais</h2>
+
+<div style="display: flex">
+<br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=20C20E)](dudu.edu1904@gmail.com@gmail.com)
+
+[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://twitter.com/)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+99+99991960434)  
+</div>
+
+<h2>Habilidades</h2>
+
+<div style="display: flex">
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
+
+![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=20C20E)
+
+![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=20C20E)
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+
+</div>
+
+<div  align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Educarv0&layout=compact&langs_count=7&theme=react)
+
+</div>
+ 
+<h2>Sistema operacional</h2>
+<br>
+
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+
+<h2>Conecte-se comigo</h2>
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Educarv0)
