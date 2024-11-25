@@ -1,9 +1,9 @@
 ## Olá, sou Antonio Eduardo 👋
 Sou estudante do curso tecnico em informática do IFMA - Campus Açailândia
 
-# Raoni Soares
+# Antonio Eduardo
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0raoni/)
+![Instagram]
 ## Habilidades
 ![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
