@@ -7,6 +7,9 @@
 
  <h2>Sobre mim</h2> 
 Sou Estudante do curso Tecnico em Informatica no IFMA- Campus Açailândia
+Sou bastante comunicativo
+Sou bom em trabalho em equipe
+Pontual
 
 <h2>Redes Sociais</h2>
 
