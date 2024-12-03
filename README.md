@@ -16,7 +16,7 @@ Pontual
 <div style="display: flex">
 <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=20C20E)](dudu.edu1904@gmail.com@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=20C20E)](dudu.edu1904@gmail.com)
 
 [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/educarv0/)
 
